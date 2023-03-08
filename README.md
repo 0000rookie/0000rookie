@@ -1,5 +1,5 @@
 ![Visitor Count](https://profile-counter.glitch.me/0000rookie/count.svg)
-
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0000rookie)](https://github.com/0000rookie/github-readme-stats)
 
 ## About Me
